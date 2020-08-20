@@ -1,2 +1,2 @@
 # mit-6.00.1x-2019
-repository for code written in MIT's 6.00.1x online course in 2019.
+Python problem sets I've worked on from MIT's 6.00.1x edX course in 2019.
